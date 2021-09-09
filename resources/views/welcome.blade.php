@@ -94,6 +94,9 @@
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+                <div>
+                    <p><?= date("d/m/Y H:i:s") ?></p>
+                </div>
             </div>
         </div>
     </body>

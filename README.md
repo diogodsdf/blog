@@ -82,3 +82,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 - composer create-project --prefer-dist laravel/laravel:^7.0 blog
 - php artisan key:generate
+- php artisan migrate
+- composer require laravel/ui:^2.4
+- php artisan ui vue --auth
+- php artisan storage:link
