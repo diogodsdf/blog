@@ -80,5 +80,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Commands used
 
-composer create-project --prefer-dist laravel/laravel:^7.0 blog
-php artisan key:generate
+# composer create-project --prefer-dist laravel/laravel:^7.0 blog
+# php artisan key:generate
